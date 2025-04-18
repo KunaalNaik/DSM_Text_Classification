@@ -1,0 +1,4 @@
+emb/category_embeddings.npy
+emb/classifier.pkl
+emb/label_encoder.pkl
+emb/sentence_model/model.safetensors
